@@ -1,0 +1,4 @@
+#Sun Nov 05 21:34:44 EST 2017
+base.0=C\:\\Users\\yoga\\AndroidStudioProjects\\AppWeather\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\yoga\\AndroidStudioProjects\\AppWeather\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0\\classes.dex
